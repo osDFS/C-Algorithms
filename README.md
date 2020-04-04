@@ -61,25 +61,35 @@ $ git push origin master
 Whenever you are going to make contribution. Please create seperate branch using command and keep your master branch clean (i.e. synced with remote branch).
 
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
+```
 $ git checkout -b Folder_Name
+```
 Create a seperate branch for contibution and try to use same name of branch as of folder.
 
 To switch to desired branch
 
 # To switch from one folder to other
+```
 $ git checkout Folder_Name
+```
 To add the changes to the branch. Use
 
 # To add all files to branch Folder_Name
+```
 $ git add .
+```
 Type in a message relevant for the code reveiwer using
 
 # This message get associated with all files you have changed
+```
 $ git commit -m 'relevant message'
+```
 Now, Push your awesome work to your remote repository using
 
 # To push your work to your remote repository
+```
 $ git push -u origin Folder_Name
+```
 Finally, go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your precious effort.
   
 ## New to Open Source?
