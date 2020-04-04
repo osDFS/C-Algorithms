@@ -1,7 +1,7 @@
 # C-Algorithms
 
 ## All Algorithms implemented in C (for learning)
-Contribute algorithms written in C language. It's beginner friendly! Feel free to add new algorithms or open an issue and commit if you have a more efficient way of implementing an algorithm. You can!
+Contribute algorithms written in C language. It's beginner friendly! Feel free to work on an open an issue and commit if you have a more efficient way of implementing an algorithm. You can!
 
 ## Getting Started
 - **Fork** this repository (Click the 'Fork' button, top right of this page)
