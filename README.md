@@ -1,4 +1,4 @@
-[Discord](https://discordapp.com/channels/695853420933939231/695853422359871530]
+[Discord](https://discordapp.com/channels/695853420933939231/695853422359871530)
 
 # C-Algorithms
 Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can. But for now we are focused only on C languages. Soon we will work on another language as well.
