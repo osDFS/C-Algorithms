@@ -1,4 +1,7 @@
-Don't forget to join our [Discord](https://discordapp.com/channels/695853420933939231/695853422359871530) channel.
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/osdfs/shared_invite/zt-eecws9vb-zvmzBeSPgBZrE9RWVj43Sw)
+
+- Join osDFS on Slack and then search for `#c-algorithms`
 
 # C-Algorithms
 Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can. But for now we are focused only on C languages. Soon we will work on another language as well.
