@@ -8,3 +8,6 @@
   * [Doubly Linked List](https://github.com/osDFS/C-Algorithms/master/DataStructures/Doubly%20Linked%20List.c)
   * [Doubly Linked List](https://github.com/osDFS/C-Algorithms/master/DataStructures/Doubly_linked_list.c)
   * [Linkedlist](https://github.com/osDFS/C-Algorithms/master/DataStructures/LinkedList.c)
+
+## Graphs
+  * [Bfs](https://github.com/osDFS/C-Algorithms/master/Graphs/BFS.c)
