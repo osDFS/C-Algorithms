@@ -60,4 +60,5 @@ int main(){
 			default:printf("Invalid Input\n");
 		}
 	}while(choice != 4);
+	return 0;
 }
